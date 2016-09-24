@@ -12,9 +12,18 @@ h1 {
 }
 
 #links {
+	background-color: black;
+}
+
+#current_page {
+	color: white;
+}
+
+.resume_item {
 
 }
 
-#current-page {
-
+.resume_header{
+	color: #235566;
+	font-size: 20px;
 }
