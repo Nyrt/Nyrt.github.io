@@ -18,16 +18,21 @@ h1 {
 #links a:link, a:visited{
 	background-color: black;
 	color: white;
+	text-decoration: none;
+	text-align: center;
 }
 
 #links a:hover{
-	background-color: grey;
+	background-color: darkgrey;
 	color: white;
+	text-align: center;
+	text-decoration: none;
 }
 
 #current_page {
-	background-color: white;
+	background-color: grey;
 	color: black;
+	text-align: center;
 }
 
 .resume_item {
