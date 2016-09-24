@@ -15,8 +15,19 @@ h1 {
 	background-color: black;
 }
 
-#current_page {
+#links a:link, a:visited{
+	background-color: black;
 	color: white;
+}
+
+#links a:hover{
+	background-color: grey;
+	color: white;
+}
+
+#current_page {
+	background-color: white;
+	color: black;
 }
 
 .resume_item {
