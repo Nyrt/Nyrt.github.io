@@ -17,14 +17,14 @@ h1 {
 	margin-bottom: 20px;
 }
 
-#links a:link, a:visited{
+#links a:link, a:visited {
 	background-color: black;
 	color: white;
 	text-decoration: none;
 	text-align: center;
 }
 
-#links a:hover{
+#links a:hover {
 	background-color: darkgrey;
 	color: white;
 	text-align: center;
