@@ -38,4 +38,6 @@ h1 {
 .resume_header{
 	color: #235566;
 	font-size: 20px;
+	float: left;
+	width: 200px;
 }
