@@ -1,0 +1,19 @@
+
+.resume_item {
+
+}
+
+.resume_header {
+	color: #235566;
+	font-size: 20px;
+	float: left;
+	width: 100px;
+}
+
+.resume_subheader {
+	font-style: bold;
+}
+
+.resume_contents {
+	margin-left: 100px;
+}
