@@ -20,9 +20,9 @@ Resume - Nathan Watts
 Nathan Watts
 </h1>
 <div id="links">
-<a href=www.linkedin.com/in/nathan-watts>Linkedin</a>
+<a href=https://www.linkedin.com/in/nathan-watts>Linkedin</a>
 <a href="mailto:Nathan.Watts@tufts.edu">Nathan.Watts@tufts.edu</a>
-<a href=github.com/Nyrt>Github</a>
+<a href=https://github.com/Nyrt>Github</a>
 <a href="tel:802-734-2760">802-734-2760</a>
 </div>
 <h2>
@@ -139,13 +139,14 @@ Worked with a team to create a networked game for a mobile platform
 Personal Projects
 </div>
 <div class="resume_contents">
-<p><span class="resume_subheader">Machine Learning,</span> 2015-present                    See <a href = "www.machinedaydreams.com">www.machinedaydreams.com</a></p>
+<p><span class="resume_subheader">Machine Learning,</span> 2015-present <span class="see">See <a href = "http://www.machinedaydreams.com">www.machinedaydreams.com</a></span></p>
 <p>Independent experimentation with neural networks and generative art</p>
 <p><span class="resume_subheader">Polyhack,</span> Fall 2015</p>
 <p>Worked with a team to develop a vacation planning app using 3rd party APIs</p>
 <p><span class="resume_subheader">Game Development</span> 2013-present</p>
 <p>Created several small games for the google and windows app stores</p>
-<p><span class="resume_subheader">Music Production</span> 2010-present                      See <a href = "www.underwhelmingforce.com">www.underwhelmingforce.com</a></p>
+<p><span class="resume_subheader">Music Production</span> 2010-present <span class="see">See <a href = "http://www.underwhelmingforce.com">www.underwhelmingforce.com</a></span></p>
+<p><span class="resume_subheader">Generative art</span> 2010-present <span class="see">See <a href = "http://solarian.black">solarian.black</a></span></p>
 </div>
 </div>
 
