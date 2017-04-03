@@ -29,9 +29,15 @@ Resume
 </h2>
 
 <p>
-<span class="resume_subheader">Contact Information:</span> www.linkedin.com/in/nathan-watts
+www.linkedin.com/in/nathan-watts
+</p>
+<p>
 Nathan.Watts@tufts.edu
+</p>
+<p>
 github.com/Nyrt
+</p>
+<p>
 802-734-2760
 </p>
 <div class="horizontal_line"></div>
@@ -44,9 +50,9 @@ Education
 <p class="resume_subheader">Tufts University, Medford, MA</p>
 <p>Bachelor of Science in Computer Science, School of Engineering, May 2018 </p>
 <p>Bachelor of Arts in Music, Minor in Music Engineering, May 2018</p>
-<div class="resume_subheader">GPA: 3.82</div>
+<div class="resume_subheader">GPA: 3.79</div>
 <p>
-Dean’s list Fall 2014-Spring 2016, National Honors Society, AP Scholar with Distinction, National Merit Letter of Commendation
+Dean’s list Fall 2014-Fall 2017, National Honors Society, AP Scholar with Distinction, National Merit Letter of Commendation
 </p>
 </div>
 </div>
@@ -84,10 +90,25 @@ Courses &amp; Projects
 
 <div class="resume_contents">
 <p>
-<span class="resume_subheader">Algorithms,</span> (Fall 2016)
+<span class="resume_subheader">Deep Learning for Computer Vision,</span> (Fall 2016)
 </p>
 <p>
-<span class="resume_subheader">Web Development </span>(Fall 2016)
+Competing in youtube-8M Kaggle competition for video labeling and understanding
+</p>
+<p>
+<span class="resume_subheader">Introduction to Machine Learning,</span> (Spring 2016)
+</p>
+<p>
+Implementing many fundamental algorithms and architectures of machine learning
+</p>
+<p>
+<span class="resume_subheader">Algorithms,</span> Fall 2016
+</p>
+<p>
+<span class="resume_subheader">Web Development </span> Fall 2016
+</p>
+<p>
+Worked with a team to develop a competitive social photography app. Implemented secure sign-in and MongoDB storage of user information and uploaded photographs, as well as handling client-server communications with nodeJS.
 </p>
 <p>
 <span class="resume_subheader">Machine Structures and Assembly Language,</span> 
@@ -111,7 +132,7 @@ Wrote in ML a modified µScheme interpreter to add a local variable environment,
 <span class="resume_subheader">Game Development,</span> Fall 2015
 </p>
 <p>
-Worked with a team to create a networked game for a mobile platform
+Worked with a team to create a networked game for a mobile platform.
 </p>
 <p>
 <span class="resume_subheader">Data Structures and Algorithms,</span> Spring 2015
@@ -156,8 +177,9 @@ Created a system for cataloging and organizing the VYOA music library
 Skills
 </div>
 <div class="resume_contents">
-<p><span class="resume_subheader">Languages:</span> Moscow ML, C, C++, C#, Javascript, Java, Matlab, R, Python</p>
-<p><span class="resume_subheader">Software:</span> GDB, Unity, Photoshop, 3ds Max, Blender, Pro Tools, Cubase</p>
+<p><span class="resume_subheader">Languages:</span> C, C++, C#, Python, Javascript, HTML/CSS, Java, ML, Matlab, R</p>
+<p><span class="resume_subheader">Software:</span> GDB, nodejs, Unity, Photoshop, 3ds Max, Pro Tools, 
+ Blender, Cubase</p>
 </div>
 </div>
 
