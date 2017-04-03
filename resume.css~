@@ -1,13 +1,13 @@
 body {
 	font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
-	background-color: grey;
+	background-color: darkgrey;
 }
 
 .wrapper {
 	width: 800px;
 	margin: auto;
 	background-color: white;
-	padding: 20px
+	padding: 20px;
 }
 
 .resume_item {
