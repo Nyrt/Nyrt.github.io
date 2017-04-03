@@ -15,31 +15,21 @@ Resume - Nathan Watts
 
 
 <body>
+<div class="wrapper">
 <h1>
 Nathan Watts
 </h1>
 <div id="links">
-<!-a href="http://nyrt.github.io/index.html">Home</a->
-<!-a href="http://nyrt.github.io/resume.html">Resume</a->
-<!-a href="http://nyrt.github.io/bio.html">Bio</a->
-
+<a href=www.linkedin.com/in/nathan-watts>Linkedin</a>
+<a href="mailto:Nathan.Watts@tufts.edu">Nathan.Watts@tufts.edu</a>
+<a href=github.com/Nyrt>Github</a>
+<span>802-734-2760</span>
 </div>
 <h2>
 Resume
 </h2>
 
-<p>
-www.linkedin.com/in/nathan-watts
-</p>
-<p>
-Nathan.Watts@tufts.edu
-</p>
-<p>
-github.com/Nyrt
-</p>
-<p>
-802-734-2760
-</p>
+
 <div class="horizontal_line"></div>
 
 <div class="resume_item">
@@ -108,7 +98,10 @@ Implementing many fundamental algorithms and architectures of machine learning
 <span class="resume_subheader">Web Development </span> Fall 2016
 </p>
 <p>
-Worked with a team to develop a competitive social photography app. Implemented secure sign-in and MongoDB storage of user information and uploaded photographs, as well as handling client-server communications with nodeJS.
+Worked with a team to develop a competitive social photography app.
+</p>
+<p>
+Implemented secure sign-in and MongoDB storage of user information and uploaded photographs, as well as handling client-server communications with nodeJS
 </p>
 <p>
 <span class="resume_subheader">Machine Structures and Assembly Language,</span> 
@@ -132,7 +125,7 @@ Wrote in ML a modified µScheme interpreter to add a local variable environment,
 <span class="resume_subheader">Game Development,</span> Fall 2015
 </p>
 <p>
-Worked with a team to create a networked game for a mobile platform.
+Worked with a team to create a networked game for a mobile platform
 </p>
 <p>
 <span class="resume_subheader">Data Structures and Algorithms,</span> Spring 2015
@@ -182,6 +175,6 @@ Skills
  Blender, Cubase</p>
 </div>
 </div>
-
+</div>
 </body>
 </html>

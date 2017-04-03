@@ -23,7 +23,6 @@ h2 {
 #links {
 	background-color: black;
 	margin-bottom: 20px;
-	color:white;
 }
 
 #links a:link, a:visited {

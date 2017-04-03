@@ -7,7 +7,7 @@ body {
 	width: 800px;
 	margin: auto;
 	background-color: white;
-	padding: 20px;
+	padding: 20px
 }
 
 .resume_item {
